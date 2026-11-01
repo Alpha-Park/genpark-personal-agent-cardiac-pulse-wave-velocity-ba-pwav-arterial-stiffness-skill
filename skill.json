@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-cardiac-pulse-wave-velocity-ba-pwav-arterial-stiffness-skill",
+  "version": "1.0.0",
+  "description": "Brachial-Ankle Pulse Wave Velocity (baPWV, cm/s) central arterial compliance & vascular calcification index.",
+  "category": "personal_agent",
+  "author": "GenPark AI",
+  "website": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "main": "skills.py",
+  "tools": [
+    {
+      "name": "assess_bapwv_arterial_stiffness",
+      "description": "Brachial-Ankle Pulse Wave Velocity (baPWV, cm/s) central arterial compliance & vascular calcification index.",
+      "sample_input": {
+        "bapwv_cm_s": 1520.0,
+        "age_years": 48,
+        "systolic_bp_mmhg": 132,
+        "diastolic_bp_mmhg": 84
+      }
+    }
+  ]
+}
