@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 352,
+  "skill_name": "genpark-personal-agent-cardiac-pulse-wave-velocity-ba-pwav-arterial-stiffness-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
